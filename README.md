@@ -162,7 +162,7 @@ ___
 This app would not be possible without the following persons:
 
 - The Mozilla Foundation, owners of the javascript programming language.
-- Lauren McCarth, the creator of p5.js, and the Processing community. http://p5js.org/
+- Lauren McCarthy, the creator of p5.js, and the Processing community. http://p5js.org/
 - LarryBattle, a GitHub user and creator of the javascript library Ratio.js. http://larrybattle.github.com/Ratio.js/
 - Edgar Grunewald, whose YouTube channel Artifexian introduced me to many of the equations implemented in this program. http://www.youtube.com/user/Artifexian
 - Electron, the cross-platform javascript desktop app builder. https://github.com/electron
