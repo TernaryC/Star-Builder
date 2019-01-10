@@ -70,6 +70,7 @@ The app is seperated into three "boxes" of input and data, each pertaining to on
 - Star
 - Planet
 - Moon
+
 In addition, there are two "display" boxes, one for stelar orbits and one for planetary orbits, and one additional input box for resonances.
 
 ## Stars
