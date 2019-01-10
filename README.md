@@ -11,7 +11,7 @@ ___
 
 Star-Builder is an app intended for those who are interested in worldbuilding, in need of a fictional solar system for any reason, or simply just think astronomical math is cool.
 
-Below is a comprehensive list of exactly what StarBuilder can be used for.
+Below is a comprehensive list of exactly what Star-Builder can be used for.
 
 # Features:
 ### This program *can*:
