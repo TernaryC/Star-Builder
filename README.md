@@ -1,4 +1,4 @@
-# StarBuilder
+# Star-Builder
 
 #### Latest Webapp Version: v1.w.2AA7
 *Runs on any javascript-enabled browser*
@@ -9,7 +9,7 @@ ___
 
 > "To bake an apple pie from scratch, you must first create the universe" -Carl Sagan
 
-StarBuilder is an app intended for those who are interested in worldbuilding, in need of a fictional solar system for any reason, or simply just think astronomical math is cool.
+Star-Builder is an app intended for those who are interested in worldbuilding, in need of a fictional solar system for any reason, or simply just think astronomical math is cool.
 
 Below is a comprehensive list of exactly what StarBuilder can be used for.
 
@@ -164,5 +164,5 @@ This app would not be possible without the following persons:
 - The Mozilla Foundation, owners of the javascript programming language.
 - LarryBattle, a GitHub user and creator of the javascript library Ratio.js. http://larrybattle.github.com/Ratio.js/
 - Edgar Grunewald, whose YouTube channel Artifexian introduced me to many of the equations implemented in this program. http://www.youtube.com/user/Artifexian
-- Electron, the cross-platform javascript desktop app builder used to create the desktop version of the app. https://github.com/electron
+- Electron, the cross-platform javascript desktop app builder. https://github.com/electron
 - My many associates in real life who have contributed ideas towards this project.
