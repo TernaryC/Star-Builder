@@ -87,9 +87,6 @@ function setup () {
 	techReset = createButton("Defaults")
 		.position(15, 612)
 		.mousePressed(function () { tech(0) })
-	techUnits = createButton("Units")
-		.position(95, 612)
-		.mousePressed(function () { tech(1) })
 }
 
 var tLim = 1005
@@ -235,19 +232,6 @@ function tech (action) {
 			resOne.value(1)
 			resTwo.value(1)
 			break
-		case 1:
-			alert("Star: All relative to the Sun\n"+
-			      "Planet: Most relative to the Earth\n"+
-				  "            Gravity in 'g's\n"+
-				  "            RL and HS in Earth Radii\n"+
-				  "Moon: Density in Earth Densities & g/cm^3\n"+
-				  "            Major Radius in Earth Radii\n"+
-				  "            Minor Radius in km\n"+
-				  "            Major Mass in Earth Masses\n"+
-				  "            Minor Mass in kg\n"+
-				  "            Gravity in m/s^2 & 'g's\n"+
-				  "            Axis in Earth Radii\n"+
-				  "            Period in Earth Days\n")
 	}
 }
 
