@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+
+title: Star Builder
+description: An app for constructing solar systems.
+
+show_downloads: true
